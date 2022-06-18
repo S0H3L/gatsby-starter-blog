@@ -46,7 +46,7 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a style={{ textDecoration: "none" }} href={`https://www.facebook.com/hello.iguru || ``}`}>
+          <a style={{ textDecoration: "none" }} href={`https://www.facebook.com/hello.iguru`}`}>
             Lets become friend on facebook 😍
           </a>
         </p>
